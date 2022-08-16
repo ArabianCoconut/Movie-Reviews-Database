@@ -1,6 +1,6 @@
 ---
 applications:
- - name: Coconut_Movie_Database_e9d
+ - name: movies-reviews-database-e9d
    buildpack: nodejs_buildpack
    random-route: false
    memory: 128M
