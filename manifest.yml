@@ -1,5 +1,5 @@
 ---
 applications:
- - name: movies-reviews-database
+ - name: Coconut_Movie_Database_e9d
    random-route: false
    memory: 128M
