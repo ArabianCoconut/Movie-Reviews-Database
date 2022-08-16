@@ -1,4 +1,4 @@
-# Coursera course Developing Cloud Native Applications
+# Coursera Developing Cloud Native Applications
 * https://www.coursera.org/learn/developing-cloud-native-applications/home/welcome
 # Movies Review Database
 
